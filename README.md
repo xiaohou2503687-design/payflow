@@ -1,5 +1,5 @@
-﻿<p align="center">
-  <img src="https://img.shields.io/npm/v/payflow-cli?color=blue&label=npx%20payflow" alt="npm">
+<p align="center">
+  <img src="https://img.shields.io/npm/v/payflow-analytics?color=blue&label=npx%20payflow" alt="npm">
   <img src="https://img.shields.io/github/license/xiaohou2503687-design/payflow" alt="license">
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen" alt="PRs">
 </p>

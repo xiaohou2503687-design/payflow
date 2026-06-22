@@ -1,5 +1,5 @@
 ﻿{
-    "name":  "payflow-cli",
+    "name":  "payflow-analytics",
     "version":  "0.1.0",
     "description":  "One-command Stripe analytics \u0026 churn prediction for indie hackers",
     "main":  "src/index.js",
