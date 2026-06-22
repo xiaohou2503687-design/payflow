@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen" alt="PRs">
 </p>
 
-# 馃挵 PayFlow
+# 棣冩尩 PayFlow
 
 > **One-command Stripe analytics. MRR. Churn prediction. LTV. Right in your terminal.**
 
@@ -15,7 +15,7 @@ npx payflow dashboard
 
 ---
 
-## 馃槫 The Problem
+## 棣冩Й The Problem
 
 You built a SaaS. You have Stripe. But you can''t answer simple questions:
 - What''s my MRR right now?
@@ -28,7 +28,7 @@ PayFlow is **$0 to start**. Just connect and see your numbers.
 
 ---
 
-## 鈿?Quick Start
+## 閳?Quick Start
 
 ```bash
 # Connect (one time)
@@ -49,60 +49,56 @@ npx payflow status
 
 ---
 
-## 馃搳 What You Get
+## 棣冩惓 What You Get
 
 ```
-鈺斺晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晽
-鈺?        馃挵 PayFlow MRR Dashboard           鈺?鈺氣晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨暆
-
+閳烘柡鏅查埡鎰ㄦ櫜閳烘劏鏅查埡鎰ㄦ櫜閳烘劏鏅查埡鎰ㄦ櫜閳烘劏鏅查埡鎰ㄦ櫜閳烘劏鏅查埡鎰ㄦ櫜閳烘劏鏅查埡鎰ㄦ櫜閳烘劏鏅查埡鎰ㄦ櫜閳烘劏鏅查埡鎰ㄦ櫜閳烘劏鏅查埡鎰ㄦ櫜閳烘劏鏅查埡鎰ㄦ櫜閳烘劏鏅查埡鎰ㄦ櫜閳烘劏鏅?閳?        棣冩尩 PayFlow MRR Dashboard           閳?閳烘埃鏅查埡鎰ㄦ櫜閳烘劏鏅查埡鎰ㄦ櫜閳烘劏鏅查埡鎰ㄦ櫜閳烘劏鏅查埡鎰ㄦ櫜閳烘劏鏅查埡鎰ㄦ櫜閳烘劏鏅查埡鎰ㄦ櫜閳烘劏鏅查埡鎰ㄦ櫜閳烘劏鏅查埡鎰ㄦ櫜閳烘劏鏅查埡鎰ㄦ櫜閳烘劏鏅查埡鎰ㄦ櫜閳烘劏鏅查埡鎰ㄦ櫜閳烘劏鏆?
   MRR:      $4,230  (+12.5%)
   ARR:      $50,760
   Active:   47 subscriptions
 
-  馃搳 MRR Breakdown (30d)
+  棣冩惓 MRR Breakdown (30d)
      + New:        $850
      - Churned:    $380
      = Net New:    $470
 
-  馃搲 Churn Analytics
+  棣冩惒 Churn Analytics
      Rate:   3.2%  (healthy)
      Lost:   2 subscriptions this month
 
-  馃拵 Customer Economics
+  棣冩嫷 Customer Economics
      ARPU:   $90/mo
      LTV:    $2,700 (30 months)
 
-  馃搱 MRR Trend (30d)
-     $4,230 鈹?   鈺攢鈺?     $3,800 鈹? 鈺攢鈺?鈺扳攢鈺?     $3,400 鈹も攢鈹€鈺?     鈺?```
+  棣冩惐 MRR Trend (30d)
+     $4,230 閳?   閳侯厸鏀㈤埡?     $3,800 閳? 閳侯厸鏀㈤埡?閳烘壋鏀㈤埡?     $3,400 閳广倐鏀㈤埞鈧埡?     閳?```
 
 ---
 
-## 馃敭 Churn Prediction
+## 棣冩暛 Churn Prediction
 
 PayFlow scores every subscription and flags who''s about to leave:
 
 ```
-鈺斺晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晽
-鈺?      馃敭 Churn Risk Prediction             鈺?鈺氣晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨暆
-
+閳烘柡鏅查埡鎰ㄦ櫜閳烘劏鏅查埡鎰ㄦ櫜閳烘劏鏅查埡鎰ㄦ櫜閳烘劏鏅查埡鎰ㄦ櫜閳烘劏鏅查埡鎰ㄦ櫜閳烘劏鏅查埡鎰ㄦ櫜閳烘劏鏅查埡鎰ㄦ櫜閳烘劏鏅查埡鎰ㄦ櫜閳烘劏鏅查埡鎰ㄦ櫜閳烘劏鏅查埡鎰ㄦ櫜閳烘劏鏅查埡鎰ㄦ櫜閳烘劏鏅?閳?      棣冩暛 Churn Risk Prediction             閳?閳烘埃鏅查埡鎰ㄦ櫜閳烘劏鏅查埡鎰ㄦ櫜閳烘劏鏅查埡鎰ㄦ櫜閳烘劏鏅查埡鎰ㄦ櫜閳烘劏鏅查埡鎰ㄦ櫜閳烘劏鏅查埡鎰ㄦ櫜閳烘劏鏅查埡鎰ㄦ櫜閳烘劏鏅查埡鎰ㄦ櫜閳烘劏鏅查埡鎰ㄦ櫜閳烘劏鏅查埡鎰ㄦ櫜閳烘劏鏅查埡鎰ㄦ櫜閳烘劏鏆?
   2 CRITICAL   3 HIGH   5 MEDIUM   12 LOW
 
-  鈿狅笍  5 subscriptions at risk 鈥?$450/mo MRR at stake
+  閳跨媴绗? 5 subscriptions at risk 閳?$450/mo MRR at stake
 
-  85% $49/mo 鈥?cus_QxYzA...
-     馃毇 Scheduled for cancellation
-     馃拵 High-value account
+  85% $49/mo 閳?cus_QxYzA...
+     棣冩瘒 Scheduled for cancellation
+     棣冩嫷 High-value account
 
-  75% $29/mo 鈥?cus_AbCdE...
-     馃挸 Payment past due
-     馃啎 New customer (12 days)
+  75% $29/mo 閳?cus_AbCdE...
+     棣冩尭 Payment past due
+     棣冨晭 New customer (12 days)
 ```
 
 8-dimension risk scoring: payment status, trial ending, cancellation scheduled, account age, plan value, collection method, and more.
 
 ---
 
-## 馃挵 Pricing
+## 棣冩尩 Pricing
 
 | Plan | Price | MRR Limit | Features |
 |------|-------|-----------|----------|
@@ -111,29 +107,29 @@ PayFlow scores every subscription and flags who''s about to leave:
 | **Business** | **$49/mo** | Unlimited | Team access, webhooks, priority support |
 | **Lifetime** | **$199** | Unlimited | Everything, forever |
 
-**[馃憠 Get Pro / Lifetime](https://xiaohou2503687-design.github.io/payflow/pricing)**
+**[棣冩啝 Get Pro / Lifetime](https://xiaohou2503687-design.github.io/payflow/pricing)**
 
 ---
 
-## 馃敀 Privacy
+## 棣冩晙 Privacy
 
 Your Stripe data **never leaves your machine**. PayFlow runs entirely locally. The only outbound connection is directly to Stripe''s API.
 
 ---
 
-## 馃専 Why PayFlow?
+## 棣冨皞 Why PayFlow?
 
-- **Zero setup** 鈥?one command to connect
-- **Local-first** 鈥?your data stays on your machine
-- **SaaS-native** 鈥?built for subscription businesses, not e-commerce
-- **Open source** 鈥?MIT license
-- **AI-powered churn prediction** 鈥?know who''s leaving before they do
+- **Zero setup** 閳?one command to connect
+- **Local-first** 閳?your data stays on your machine
+- **SaaS-native** 閳?built for subscription businesses, not e-commerce
+- **Open source** 閳?MIT license
+- **AI-powered churn prediction** 閳?know who''s leaving before they do
 
 ---
 
-## 馃 Sponsors & Support
+## 棣冾檪 Sponsors & Support
 
-猸?**Star this repo** if it saves you $50/month on Baremetrics!
+鐚?**Star this repo** if it saves you $50/month on Baremetrics!
 
 <a href="https://github.com/sponsors/xiaohou2503687-design"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2?logo=github"></a>
 <a href="https://ko-fi.com/shipfast"><img src="https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee-ff5e5b?logo=ko-fi"></a>
@@ -141,5 +137,13 @@ Your Stripe data **never leaves your machine**. PayFlow runs entirely locally. T
 ---
 
 <p align="center">
-  <sub>Built with 鉂わ笍 by <a href="https://github.com/xiaohou2503687-design">chunfeng3681</a> | MIT License</sub>
+  <sub>Built with 閴傘倧绗?by <a href="https://github.com/xiaohou2503687-design">chunfeng3681</a> | MIT License</sub>
 </p>
+
+---
+
+## 🧰 More Tools
+
+- [💰 🛡️ GuardRail — Security scanner
+- [🔍 🔍 SEOmatic — AI content cluster generator
+- [🚀 ShipFast](https://github.com/xiaohou2503687-design/shipfast-oss) — One-command deploy
