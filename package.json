@@ -1,0 +1,34 @@
+﻿{
+    "name":  "payflow-cli",
+    "version":  "0.1.0",
+    "description":  "One-command Stripe analytics \u0026 churn prediction for indie hackers",
+    "main":  "src/index.js",
+    "bin":  {
+                "payflow":  "./bin/payflow.js"
+            },
+    "scripts":  {
+                    "connect":  "node bin/payflow.js connect",
+                    "dashboard":  "node bin/payflow.js dashboard"
+                },
+    "keywords":  [
+                     "stripe",
+                     "analytics",
+                     "mrr",
+                     "churn",
+                     "saas",
+                     "indie-dev",
+                     "cli"
+                 ],
+    "license":  "MIT",
+    "dependencies":  {
+                         "chalk":  "^4.1.2",
+                         "commander":  "^12.1.0",
+                         "stripe":  "^17.0.0",
+                         "asciichart":  "^1.5.25",
+                         "table":  "^6.8.2",
+                         "conf":  "^13.0.0"
+                     },
+    "engines":  {
+                    "node":  "\u003e=18"
+                }
+}
